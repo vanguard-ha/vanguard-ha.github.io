@@ -1,5 +1,6 @@
 google.com, pub-1049172090130195, DIRECT, f08c47fec0942fa0
 facebook.com, 1251739689428473, DIRECT, c3e20eee3f780d68
+pangleglobal.com,5021014, DIRECT, 737c7b1c3d114c9d
 vungle.com,6a0d7a92ff8b28c1aa3becbe,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
