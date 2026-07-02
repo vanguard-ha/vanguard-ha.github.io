@@ -1,5 +1,7 @@
 google.com, pub-8223036043956853, DIRECT, f08c47fec0942fa0
 google.com, pub-1610409549831381, DIRECT, f08c47fec0942fa0
+facebook.com, 2186460248810704, DIRECT, c3e20eee3f780d68
+facebook.com, 2186460248810704, RESELLER, c3e20eee3f780d68
 applovin.com, c6434969c59cb9d872d74b3ef832841d, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
